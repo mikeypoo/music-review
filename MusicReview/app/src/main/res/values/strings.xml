@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicReview</string>
+    <string name="albums">Albums</string>
+    <string name="album_title">Album title...</string>
+    <string name="artist_name">Artist name...</string>
+    <string name="save">Save</string>
+</resources>
